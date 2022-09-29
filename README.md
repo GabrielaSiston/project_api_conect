@@ -30,7 +30,7 @@ rphecker fornece as seguintes opções:
 Gabriela Siston 
 Linkedin: https://www.linkedin.com/in/gabriela-siston-dos-santos-257479236/
 
-## 6. Licensa 
+## 6. Licença 
 
 Para mais informações consultar projeto original em : <https://realpython.com/site-connectivity-checker-python/#conclusion>
 
